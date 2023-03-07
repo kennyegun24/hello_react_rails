@@ -14,6 +14,7 @@ const Greeting = () => {
     return (
         <div >
             <p>{greet.greetings.greeting}</p>
+
         </div>
     )
 }
